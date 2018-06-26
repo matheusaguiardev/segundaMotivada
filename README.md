@@ -1,0 +1,2 @@
+# segundaMotivada
+Estudando ReactNative
